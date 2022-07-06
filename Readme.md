@@ -5,7 +5,7 @@ entered, ranking the search results by relevance related to keywords from high t
 
 ## Subject: 
 
-PROGRAMMING TECHNIQUES
+Programming Techiniques
 
 ## Authors: 
 
